@@ -6,7 +6,9 @@ Proyecto de compiladores
 
 Este es analizador lexico y sintactico realizado en C para cadenas que cumplan la siguiente sintaxis regla:
 
- * <ABRIR> <espacio> <variable> <asignacion> <entero> <operador relacional> <entero> <esapcio> <CERRAR> *
+- ABRIR  - espacio  - variable  - asignacion  - *entero*  - operadorRelacional  - *entero*  - espacio  - CERRAR
+
+*NOTA*: los '-' no se deben de incluir, solo era para separar
 
 # Proyecto futuro
 
